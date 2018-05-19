@@ -1,0 +1,11 @@
+.vscode/
+.env
+.cache
+*.swp
+*.csv
+
+yarn-error.log
+
+dist
+node_modules
+local

@@ -1,0 +1,1614 @@
+[
+  {
+    "vocabulary": {
+      "word": "週",
+      "ja": "しゅう",
+      "en": "week",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22019_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1225.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "一週間は七日ある。",
+      "ja": "いっしゅうかんはなのかある。",
+      "en": "There are seven days in a week.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251565.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "年",
+      "ja": "とし",
+      "en": "year",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22020_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375193.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "うるう年",
+      "ja": "うるうどし",
+      "en": "leap year",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200333.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "今日",
+      "ja": "きょう",
+      "en": "today",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22014_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/668.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "今日はとても寒いです。",
+      "ja": "きょうはとてもさむいです。",
+      "en": "It's very cold today.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170952.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "明日",
+      "ja": "あした",
+      "en": "tomorrow",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22015_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/405631.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "また明日！",
+      "ja": "またあした！",
+      "en": "See you tomorrow!",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271153.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "昨日",
+      "ja": "きのう",
+      "en": "yesterday",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22016_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/527101.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "昨日の午後",
+      "ja": "きのうのごご",
+      "en": "yesterday afternoon",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/683.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "カレンダー",
+      "ja": "カレンダー",
+      "en": "calendar",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21796_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200503.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "私は、カレンダーに自分達の記念日を記しました。",
+      "ja": "わたしは、カレンダーにじぶんたちのきねんびをしるしました。",
+      "en": "I marked our anniversary on the calendar.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271155.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "秒",
+      "ja": "びょう",
+      "en": "second",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22047_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/701.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "一分間は六十秒あります。",
+      "ja": "いっぷんかんはろくじゅうびょうあります。",
+      "en": "There are sixty seconds in a minute.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200353.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "時間",
+      "ja": "じかん",
+      "en": "hour",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22041_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/706.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "一時間は六十分です。",
+      "ja": "いちじかんはろくじゅっぷんです。",
+      "en": "There are 60 minutes in an hour.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/712.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "分",
+      "ja": "ふん",
+      "en": "minute",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22043_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/713.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "一分は六十秒です。",
+      "ja": "いっぷんはろくじゅうびょうです。",
+      "en": "There are sixty seconds in a minute.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/70545.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "時",
+      "ja": "じ",
+      "en": "o'clock",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22044_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/719.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "三時",
+      "ja": "さんじ",
+      "en": "3 o’clock",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/723.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "時計",
+      "ja": "とけい",
+      "en": "clock",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/20235_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200497.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "目覚まし時計は五時にセットされている。",
+      "ja": "めざましどけいはごじにセットされている。",
+      "en": "The alarm clock is set for 5 a.m.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200502.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "できる",
+      "ja": "できる",
+      "en": "can",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9008_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1129.mp3",
+      "type": "(v)"
+    },
+    "example": {
+      "sentence": "私は中国語で一から十まで数えることができる。",
+      "ja": "わたしはちゅうごくごでいちからじゅうまでかぞえることができる。",
+      "en": "I can count from one to ten in Chinese.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1133.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "使う",
+      "ja": "つかう",
+      "en": "use",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17270_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1134.mp3",
+      "type": "(v)"
+    },
+    "example": {
+      "sentence": "プログラマーがコンピュータを使う。",
+      "ja": "プログラマーがコンピュータをつかう。",
+      "en": "The programmer uses the computer.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305115.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "する",
+      "ja": "する",
+      "en": "do",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9432_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/616.mp3",
+      "type": "(v)"
+    },
+    "example": {
+      "sentence": "女の人が家事をした。",
+      "ja": "おんなのひとがかじをした。",
+      "en": "The woman did housework.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305080.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "行く",
+      "ja": "いく",
+      "en": "go",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9499_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375123.mp3",
+      "type": "(v)"
+    },
+    "example": {
+      "sentence": "学校に行く",
+      "ja": "がっこうにいく",
+      "en": "I go to school",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1021984.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "来る",
+      "ja": "くる",
+      "en": "come",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9189_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/636.mp3",
+      "type": "(v)"
+    },
+    "example": {
+      "sentence": "女の子がビデオカメラの方に来た。",
+      "ja": "おんなのこがビデオカメラのほうにきた。",
+      "en": "The girl came towards the video camera.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305211.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "笑う",
+      "ja": "わらう",
+      "en": "laugh",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9527_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271156.mp3",
+      "type": "(v)"
+    },
+    "example": {
+      "sentence": "そのカップルは、冗談に笑う。",
+      "ja": "そのカップルは、じょうだんにわらう。",
+      "en": "The couple laughs at a joke.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305737.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "作る",
+      "ja": "つくる",
+      "en": "make",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8742_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200530.mp3",
+      "type": "(v)"
+    },
+    "example": {
+      "sentence": "シェフがオレンジジュースを作った。",
+      "ja": "シェフがオレンジジュースをつくった。",
+      "en": "The chef made orange juice.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305088.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "見る",
+      "ja": "みる",
+      "en": "see",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17269_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1142.mp3",
+      "type": "(v)"
+    },
+    "example": {
+      "sentence": "旅行者達が夕日を見る。",
+      "ja": "りょこうしゃたちがゆうひをみる。",
+      "en": "The tourists see the sunset.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309602.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "遠い",
+      "ja": "とおい",
+      "en": "far",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8065_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/779.mp3",
+      "type": "(i-adj)"
+    },
+    "example": {
+      "sentence": "女性は、遠くに何かを見ている。",
+      "ja": "じょせいは、とおくになにかをみている。",
+      "en": "The woman is looking at something far away.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227272.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "小さい",
+      "ja": "ちいさい",
+      "en": "small",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21795_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200542.mp3",
+      "type": "(i-adj)"
+    },
+    "example": {
+      "sentence": "とても小さいハンバーガーがスプーンにのっている。",
+      "ja": "とてもちいさいハンバーガーがスプーンにのっている。",
+      "en": "There is a very small hamburger on the spoon.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200549.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "良い",
+      "ja": "よい",
+      "en": "good",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/16933_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271284.mp3",
+      "type": "(i-adj)"
+    },
+    "example": {
+      "sentence": "野菜は、体に良い食べ物です。",
+      "ja": "やさいは、からだにいいたべものです。",
+      "en": "Vegetables are good for you.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/585.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "きれい",
+      "ja": "きれい",
+      "en": "beautiful",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9658_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271285.mp3",
+      "type": "(na-adj)"
+    },
+    "example": {
+      "sentence": "彼女はきれいな女性だ。",
+      "ja": "かのじょはきれいなじょせいだ。",
+      "en": "She is a beautiful woman.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1009.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "醜い",
+      "ja": "みにくい",
+      "en": "ugly",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8197_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271291.mp3",
+      "type": "(i-adj)"
+    },
+    "example": {
+      "sentence": "醜い顔",
+      "ja": "みにくいかお",
+      "en": "ugly face",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200552.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "難しい",
+      "ja": "むずかしい",
+      "en": "difficult",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17227_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1192.mp3",
+      "type": "(i-adj)"
+    },
+    "example": {
+      "sentence": "難しい仕事",
+      "ja": "むずかしいしごと",
+      "en": "difficult job",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1198.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "簡単",
+      "ja": "かんたん",
+      "en": "easy",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8717_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1199.mp3",
+      "type": "(na-adj)"
+    },
+    "example": {
+      "sentence": "簡単な試験",
+      "ja": "かんたんなしけん",
+      "en": "easy exam",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1202.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "悪い",
+      "ja": "わるい",
+      "en": "bad",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8487_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/884.mp3",
+      "type": "(i-adj)"
+    },
+    "example": {
+      "sentence": "天気が悪い",
+      "ja": "てんきがわるい",
+      "en": "weather is bad",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170932.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "近い",
+      "ja": "ちかい",
+      "en": "near",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9622_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200554.mp3",
+      "type": "(i-adj)"
+    },
+    "example": {
+      "sentence": "私の学校は病院の近くにある。",
+      "ja": "わたしのがっこうはびょういんのちかくにある。",
+      "en": "My school is near the hospital.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227289.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "初めまして。",
+      "ja": "はじめまして。",
+      "en": "Nice to meet you.",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21965_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/564.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "阿部さん、初めまして、田代と申します。",
+      "ja": "あべさん、はじめまして、たしろともうします。",
+      "en": "Mr Abe, nice to meet you. I'm Tashiro.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1409226.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "こんにちは。",
+      "ja": "こんにちは。",
+      "en": "Hello.",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21643_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/493.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "人々が「こんにちは」と言っている。",
+      "ja": "ひとびとが「こんにちは」といっている。",
+      "en": "The people are saying, \"Hello.\"",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305710.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "おはよう。",
+      "ja": "おはよう。",
+      "en": "Good morning.",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17247_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/872519.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "おはよう。まだ眠いです。",
+      "ja": "おはよう。まだねむいです。",
+      "en": "Good morning. I'm still sleepy.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1409229.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "こんにちは。",
+      "ja": "こんにちは。",
+      "en": "Good afternoon.",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21648_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229350.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "",
+      "ja": "",
+      "en": ""
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "こんばんは。",
+      "ja": "こんばんは。",
+      "en": "Good evening.",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21963_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/499.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "こんばんは、佐藤さん、今日は寒いですね。",
+      "ja": "こんばんは、さとうさん、きょうはさむいですね。",
+      "en": "Good evening, Ms. Sato, it's cold today.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1409230.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "お休みなさい。",
+      "ja": "おやすみなさい。",
+      "en": "Good night.",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21964_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/492449.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "",
+      "ja": "",
+      "en": ""
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "お元気ですか。",
+      "ja": "おげんきですか。",
+      "en": "How are you?",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/23184_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/501.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "こんにちは、松島さん、お元気ですか？",
+      "ja": "こんにちは、まつしまさん、おげんきですか？",
+      "en": "Hello, Mr. Matsushima, how are you?",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1409231.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "ありがとう。",
+      "ja": "ありがとう。",
+      "en": "Thank you!",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/14992_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/872605.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "ありがとう、でも、私はこれを注文しませんでした。",
+      "ja": "ありがとう、でも、わたしはこれをちゅうもんしませんでした。",
+      "en": "Thank you, but I didn't order this.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1614882.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "いいえ。",
+      "ja": "いいえ。",
+      "en": "No.",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21966_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228119.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "いいえ、私は盗んでいません。",
+      "ja": "いいえ、わたしはぬすんでいません。",
+      "en": "No, I didn't steal it!",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1409233.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "美味しい！",
+      "ja": "おいしい！",
+      "en": "Delicious!",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10146_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/566.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "美味しいデザート",
+      "ja": "おいしいデザート",
+      "en": "delicious deserts",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/568.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "私は～です。",
+      "ja": "わたしは～です。",
+      "en": "I'm...(name).",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21967_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830270.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "",
+      "ja": "",
+      "en": ""
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "さようなら。",
+      "ja": "さようなら。",
+      "en": "Goodbye.",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21968_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/510.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "さようなら、また明日会いましょう！",
+      "ja": "さようなら、またあしたあいましょう！",
+      "en": "Goodbye, I'll see you tomorrow.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1409234.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "はい。",
+      "ja": "はい。",
+      "en": "Yes.",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/14816_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/492515.mp3",
+      "type": ""
+    },
+    "example": {
+      "sentence": "はい、これは私のです。",
+      "ja": "はい、これはわたしのです。",
+      "en": "Yes, this is mine.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1409236.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "月曜日",
+      "ja": "げつようび",
+      "en": "Monday",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22038_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/642.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "一週間の仕事は月曜日から始まる。",
+      "ja": "いっしゅうかんのしごとはげつようびからはじまる。",
+      "en": "The workweek starts on Monday.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/645.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "火曜日",
+      "ja": "かようび",
+      "en": "Tuesday",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22039_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/646.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "今年の一月一日は火曜日です。",
+      "ja": "ことしのいちがつついたちはかようびです。",
+      "en": "January 1st falls on a Tuesday this year.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200338.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "水曜日",
+      "ja": "すいようび",
+      "en": "Wednesday",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22037_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/649.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "十八日の水曜日",
+      "ja": "じゅうはちにちのすいようび",
+      "en": "Wednesday the 18th",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/651.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "木曜日",
+      "ja": "もくようび",
+      "en": "Thursday",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22033_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/653.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "明日は水曜日、あさっては木曜日です。",
+      "ja": "あしたはすいようび、あさってはもくようびです。",
+      "en": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200344.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "金曜日",
+      "ja": "きんようび",
+      "en": "Friday",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22035_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/657.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "月曜、火曜、水曜、木曜、金曜は平日です。",
+      "ja": "げつよう、かよう、すいよう、もくよう、きんようはへいじつです。",
+      "en": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200343.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "土曜日",
+      "ja": "どようび",
+      "en": "Saturday",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22036_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/661.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "土曜日に予定がない",
+      "ja": "どようびによていがない",
+      "en": "no plans for Saturday",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200347.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "日曜日",
+      "ja": "にちようび",
+      "en": "Sunday",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22034_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/664.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "日曜は父の日です。",
+      "ja": "にちようはちちのひです。",
+      "en": "Sunday is Father's Day.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200351.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "五月",
+      "ja": "ごがつ",
+      "en": "May",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22029_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271330.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "いま四月なので、来月は五月になります。",
+      "ja": "いましがつなので、らいげつはごがつになります。",
+      "en": "It is now April so next month will be May.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200385.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "一月",
+      "ja": "いちがつ",
+      "en": "January",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22025_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/691.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "2009年01月",
+      "ja": "にせんきゅうねんいちがつ",
+      "en": "January 2009",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271331.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "二月",
+      "ja": "にがつ",
+      "en": "February",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22024_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/692.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "うるう日は、二月二十九日のことだ。",
+      "ja": "うるうびは、にがつにじゅうくにちのことだ。",
+      "en": "Leap year day is February 29th.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200467.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "三月",
+      "ja": "さんがつ",
+      "en": "March",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22028_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/690.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "今は、四月なので、先月は三月でした。",
+      "ja": "いまは、しがつなので、せんげつはさんがつでした。",
+      "en": "It is now April so last month was March.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200460.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "四月",
+      "ja": "しがつ",
+      "en": "April",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22021_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/693.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "いま四月なので、来月は五月です。",
+      "ja": "いましがつなので、らいげつはごがつです。",
+      "en": "It is now April so next month will be May.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271332.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "六月",
+      "ja": "ろくがつ",
+      "en": "June",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22027_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/694.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "私たちは六月に結婚します。",
+      "ja": "わたしたちはろくがつにけっこんします。",
+      "en": "We are getting married in June.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200474.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "七月",
+      "ja": "しちがつ",
+      "en": "July",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22026_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/695.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "ジュライは、7月生まれのジュリアスシーザーにちなんでいる。",
+      "ja": "ジュライは、7がつうまれのジュリアスシーザーにちなんでいる。",
+      "en": "July is named for Julius Caesar, who was born in July.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/530454.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "八月",
+      "ja": "はちがつ",
+      "en": "August",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22022_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/696.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "八月は、学校が休みだ。",
+      "ja": "はちがつは、がっこうがやすみだ。",
+      "en": "The school is closed in August.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200482.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "九月",
+      "ja": "くがつ",
+      "en": "September",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22032_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/697.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "今日は九月十日、土曜日です。",
+      "ja": "きょうはくがつとうか、どようびです。",
+      "en": "Today is Saturday, September 10th.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200485.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "十月",
+      "ja": "じゅうがつ",
+      "en": "October",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22031_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/698.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "ハロウィーンは、十月三十一日だ。",
+      "ja": "ハロウィーンは、じゅうがつさんじゅういちにちだ。",
+      "en": "Halloween falls on October 31st.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271334.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "十一月",
+      "ja": "じゅういちがつ",
+      "en": "November",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22030_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/699.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "十一月二十四日、木曜日の感謝祭",
+      "ja": "じゅういちがつにじゅうよっか、もくようびのかんしゃさい",
+      "en": "Thanksgiving, Thursday November 24th",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200490.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "十二月",
+      "ja": "じゅうにがつ",
+      "en": "December",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22023_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/700.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "十二月八日、金曜日",
+      "ja": "じゅうにがつようか、きんようび",
+      "en": "Friday, December 8th",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200493.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "零",
+      "ja": "れい",
+      "en": "zero",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10304_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824623.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "今日の気温はだいたい零度です。",
+      "ja": "きょうのきおんはだいたいれいどです。",
+      "en": "It's about zero degrees today.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251159.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "一",
+      "ja": "いち",
+      "en": "one",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8873_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227158.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "一時間インターネットをしました。",
+      "ja": "いちじかんインターネットをしました。",
+      "en": "I surfed the Internet for an hour.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1600753.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "二",
+      "ja": "に",
+      "en": "two",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9077_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227160.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "数字の二は私の好きな数字です。",
+      "ja": "すうじのにはわたしのすきなすうじです。",
+      "en": "The number two is my favorite number.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200397.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "三",
+      "ja": "さん",
+      "en": "three",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9718_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227161.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "三度",
+      "ja": "さんど",
+      "en": "three degrees",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200400.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "四",
+      "ja": "し、よん",
+      "en": "four",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9466_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375009.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "四車線道路",
+      "ja": "よんしゃせんどうろ",
+      "en": "four-lane motorway",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227164.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "五",
+      "ja": "ご",
+      "en": "five",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8167_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227165.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "目覚まし時計を朝五時にセットした。",
+      "ja": "めざましどけいをあさごじにセットした。",
+      "en": "The alarm clock is set for five a.m.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1600754.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "六",
+      "ja": "ろく",
+      "en": "six",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9140_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227166.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "六インチ",
+      "ja": "ろくインチ",
+      "en": "six inches",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227168.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "七",
+      "ja": "しち、なな",
+      "en": "seven",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9424_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375011.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "七時に友達と会います。",
+      "ja": "しちじにともだちとあいます。",
+      "en": "I'm going to meet my friend at 7 p.m.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1600755.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "八",
+      "ja": "はち",
+      "en": "eight",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9473_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258420.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "私は八歳の娘がいます。",
+      "ja": "わたしははっさいのむすめがいます。",
+      "en": "I have an eight-year-old daughter.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1600756.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "九",
+      "ja": "きゅう",
+      "en": "nine",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8833_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227171.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "外の気温は九度です。",
+      "ja": "そとのきおんはきゅうどです。",
+      "en": "The temperature outside is nine degrees.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1600757.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "十",
+      "ja": "じゅう",
+      "en": "ten",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9088_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227172.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "わたしの息子は十歳です。",
+      "ja": "わたしのむすこはじゅっさいです。",
+      "en": "My son is ten years old.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1600758.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "コーヒー",
+      "ja": "コーヒー",
+      "en": "coffee",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22103_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1347.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "カップに入ったコーヒー",
+      "ja": "カップにはいったコーヒー",
+      "en": "cup of coffee",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251879.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "ビール",
+      "ja": "ビール",
+      "en": "beer",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8700_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1356.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "私はテレビでスポーツを見ながら缶ビールや瓶ビールを飲むのが好きだ。",
+      "ja": "わたしはテレビでスポーツをみながらかんビールやびんビールをのむのがすきだ。",
+      "en": "I enjoy a can or bottle of beer when watching sports on television.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251881.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "茶",
+      "ja": "ちゃ",
+      "en": "tea",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22101_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200356.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "一杯のお茶",
+      "ja": "いっぱいのおちゃ",
+      "en": "cup of tea",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1392.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "ワイン",
+      "ja": "ワイン",
+      "en": "wine",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22104_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1393.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "グラスワイン",
+      "ja": "グラスワイン",
+      "en": "glass of wine",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824620.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "水",
+      "ja": "みず",
+      "en": "water",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/27050_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200509.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "水をもらえますか。",
+      "ja": "みずをもらえますか。",
+      "en": "Can I have some water, please?",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200511.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "牛肉",
+      "ja": "ぎゅうにく",
+      "en": "beef",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8664_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/208374.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "おいしい牛肉",
+      "ja": "おいしいぎゅうにく",
+      "en": "flavorful beef",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1465.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "豚肉",
+      "ja": "ぶたにく",
+      "en": "pork",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8081_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258523.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "豚肉は、豚から取れる肉です。",
+      "ja": "ぶたにくは、ぶたからとれるにくです。",
+      "en": "Pork is the meat from a pig.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200370.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "鶏肉",
+      "ja": "とりにく",
+      "en": "chicken",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10126_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251703.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "鶏肉にしますか、魚にしますか？",
+      "ja": "とりにくにしますか、さかなにしますか？",
+      "en": "Chicken or fish?",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200372.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "ラム肉",
+      "ja": "ラムにく",
+      "en": "lamb",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15190_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375041.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "ラムは最高においしいです。",
+      "ja": "ラムはさいこうにおいしいです。",
+      "en": "Lamb is extremely delicious.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252002.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "魚",
+      "ja": "さかな",
+      "en": "fish",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15728_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555091.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "水族館で魚が泳ぎまわるのを見るのが大好きです。",
+      "ja": "すいぞくかんでさかながおよぎまわるのをみるのがだいすきです。",
+      "en": "I love to watch all the fish swim at the aquarium.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1455.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "足",
+      "ja": "あし",
+      "en": "foot",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8374_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1018.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "左足",
+      "ja": "ひだりあし",
+      "en": "left foot",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200380.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "足",
+      "ja": "あし",
+      "en": "leg",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8542_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1024.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "雨が降ると、足が痛みます。",
+      "ja": "あめがふると、あしがいたみます。",
+      "en": "I have pain in my legs when it rains.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555277.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "頭",
+      "ja": "あたま",
+      "en": "head",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21800_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1029.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "頭を守るためにヘルメットをかぶりなさい。",
+      "ja": "あたまをまもるためにヘルメットをかぶりなさい。",
+      "en": "Wear a helmet to protect your head.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200438.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "腕",
+      "ja": "うで",
+      "en": "arm",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9562_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1038.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "二本の腕が上がった。",
+      "ja": "にほんのうでがあがった。",
+      "en": "The two arms are raised.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200440.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "手",
+      "ja": "て",
+      "en": "hand",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8317_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227821.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "子どもが手を上げている。",
+      "ja": "こどもがてをあげている。",
+      "en": "The child is raising his hand.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200443.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "指",
+      "ja": "ゆび",
+      "en": "finger",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9323_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200444.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "指から血が出ています。",
+      "ja": "ゆびからちがでています。",
+      "en": "My finger's bleeding.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1614867.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "体",
+      "ja": "からだ",
+      "en": "body",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21798_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1050.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "人間の体",
+      "ja": "にんげんのからだ",
+      "en": "human body",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228944.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "胃",
+      "ja": "い",
+      "en": "stomach",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8438_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1888.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "医者が、手に胃の模型を持っている。",
+      "ja": "いしゃが、てにいのもけいをもっている。",
+      "en": "The doctor is holding a stomach model.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200451.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "背中",
+      "ja": "せなか",
+      "en": "back",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21801_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200508.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "背中が痛いです。",
+      "ja": "せなかがいたいです。",
+      "en": "My back hurts.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1614870.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "胸",
+      "ja": "むね",
+      "en": "chest",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21799_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200494.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "胸のレントゲン",
+      "ja": "むねのレントゲン",
+      "en": "X-ray of a chest",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200496.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "看護師",
+      "ja": "かんごし",
+      "en": "nurse",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21768_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252336.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "その女性は、看護師だ。",
+      "ja": "そのじょせいは、かんごしだ。",
+      "en": "The woman is a nurse.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200378.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "従業員",
+      "ja": "じゅうぎょういん",
+      "en": "employee",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15526_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309591.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "従業員が役員室で会議をしている。",
+      "ja": "じゅうぎょういんがやくいんしつでかいぎをしている。",
+      "en": "The employees are having a meeting in the boardroom.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201841.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "警察官",
+      "ja": "けいさつかん",
+      "en": "police officer",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22290_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200422.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "制服を着た警察官",
+      "ja": "せいふくをきたけいさつかん",
+      "en": "police officer in uniform",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252844.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "料理人",
+      "ja": "りょうりにん",
+      "en": "cook",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21802_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200424.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "彼女は四つ星レストランの料理人だ。",
+      "ja": "かのじょはよつぼしレストランのりょうりにんだ。",
+      "en": "She is a cook at a four-star restaurant.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229435.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "エンジニア",
+      "ja": "エンジニア",
+      "en": "engineer",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/19050_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/527082.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "良いエンジニアは、システムを設計し、構築する事ができる。",
+      "ja": "よいエンジニアは、システムをせっけいし、こうちくすることができる。",
+      "en": "A good engineer can design and build systems.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891774.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "医者",
+      "ja": "いしゃ",
+      "en": "doctor",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21803_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1179736.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "医者は足を診察している。",
+      "ja": "いしゃはあしをしんさつしている。",
+      "en": "The doctor is examining the foot.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200428.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "マネージャー",
+      "ja": "マネージャー",
+      "en": "manager",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17412_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375083.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "その部門マネージャーは生産を担当している。",
+      "ja": "そのぶもんマネージャーはせいさんをたんとうしている。",
+      "en": "The department manager is in charge of production.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891802.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "先生",
+      "ja": "せんせい",
+      "en": "teacher",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9229_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227518.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "先生が教室で生徒に教えている。",
+      "ja": "せんせいがきょうしつでせいとにおしえている。",
+      "en": "The teacher is teaching the kids in the classroom.",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200433.mp3"
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "プログラマー",
+      "ja": "プログラマー",
+      "en": "programmer",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21805_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309560.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "",
+      "ja": "",
+      "en": ""
+    }
+  },
+  {
+    "vocabulary": {
+      "word": "セールスマン",
+      "ja": "セールスマン",
+      "en": "salesman",
+      "picture": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9477_96square.jpg",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549489.mp3",
+      "type": "(n)"
+    },
+    "example": {
+      "sentence": "車のセールスマン",
+      "ja": "くるまのセールスマン",
+      "en": "car salesman",
+      "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200455.mp3"
+    }
+  }
+]
