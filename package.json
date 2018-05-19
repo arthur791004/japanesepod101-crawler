@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "cronjob": "node cronjob"
   },
   "license": "MIT",
   "dependencies": {
-    "crawler": "^1.1.2"
+    "crawler": "^1.1.2",
+    "dotenv": "^5.0.1",
+    "node-fetch": "^2.1.2"
   }
 }
