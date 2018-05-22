@@ -1,9 +1,12 @@
+const path = require('path');
 const fetch = require('node-fetch');
 
 const words = require('../data/jp100words');
 const { createMessage, getDayOfYear } = require('./utils');
 
-require('dotenv').config();
+require('dotenv').config({
+  path: path.resolve(__dirname, '../.env'),
+});
 
 const index = getDayOfYear() % words.length;
 
