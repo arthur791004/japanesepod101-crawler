@@ -1,0 +1,602 @@
+[
+  {
+    "word": "令",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16338.mp3",
+    "ja": "れい",
+    "en": "command, order, dictation (P)   (n,n-suf,vs) "
+  },
+  {
+    "word": "例",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16338.mp3",
+    "ja": "れい",
+    "en": "instance, example, case, precedent, experience, custom, usage, parallel, illustration (P)   (n) "
+  },
+  {
+    "word": "礼",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16338.mp3",
+    "ja": "れい",
+    "en": "expression of gratitude (P)   (n) "
+  },
+  {
+    "word": "零",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16338.mp3",
+    "ja": "れい",
+    "en": "zero, nought (P)   (n) "
+  },
+  {
+    "word": "霊",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16338.mp3",
+    "ja": "れい",
+    "en": "soul, spirit, departed soul, ghost (P)   (n) "
+  },
+  {
+    "word": "霊園",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113695",
+    "ja": "れいえん",
+    "en": "cemetery (P)   (n) "
+  },
+  {
+    "word": "冷夏",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/19135.mp3",
+    "ja": "れいか",
+    "en": "a cool summer (P)   (n) "
+  },
+  {
+    "word": "零下",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/19135.mp3",
+    "ja": "れいか",
+    "en": "below zero, sub-zero (P)   (n) "
+  },
+  {
+    "word": "例会",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/20322.mp3",
+    "ja": "れいかい",
+    "en": "regular meeting (P)   (n) "
+  },
+  {
+    "word": "冷汗",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/14630.mp3",
+    "ja": "れいかん",
+    "en": "cold sweat (P)   (n) "
+  },
+  {
+    "word": "例外",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/20322.mp3",
+    "ja": "れいがい",
+    "en": "exception (P)   (n,adj-no) "
+  },
+  {
+    "word": "冷害",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/20322.mp3",
+    "ja": "れいがい",
+    "en": "cold-weather damage (P)   (n) "
+  },
+  {
+    "word": "例外的",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113465",
+    "ja": "れいがいてき",
+    "en": "exceptional (P)   (adj-na) "
+  },
+  {
+    "word": "冷却",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113532",
+    "ja": "れいきゃく",
+    "en": "cooling, refrigeration (P)   (n,vs) "
+  },
+  {
+    "word": "礼金",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5390.mp3",
+    "ja": "れいきん",
+    "en": "finder's fee, reward, honorarium, \"key money\" (P)   (n) "
+  },
+  {
+    "word": "礼儀",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113634",
+    "ja": "れいぎ",
+    "en": "manners, courtesy, etiquette (P)   (n) "
+  },
+  {
+    "word": "冷遇",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113538",
+    "ja": "れいぐう",
+    "en": "cold reception, inhospitality (P)   (n,vs) "
+  },
+  {
+    "word": "冷酷",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16576.mp3",
+    "ja": "れいこく",
+    "en": "cruelty, coldheartedness, relentless, ruthless (P)   (adj-na,n) "
+  },
+  {
+    "word": "零細",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113679",
+    "ja": "れいさい",
+    "en": "insignificant, trifling, paltry (P)   (adj-na,n) "
+  },
+  {
+    "word": "冷笑",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113555",
+    "ja": "れいしょう",
+    "en": "derision, derisive laughter, scornful laugh (P)   (n,vs) "
+  },
+  {
+    "word": "零時",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113682",
+    "ja": "れいじ",
+    "en": "12 o'clock (midnight)  (P)   (n) "
+  },
+  {
+    "word": "令嬢",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113429",
+    "ja": "れいじょう",
+    "en": "daughter, young woman (P)   (n)  (your) "
+  },
+  {
+    "word": "令状",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113430",
+    "ja": "れいじょう",
+    "en": "warrant, summons, written order (P)   (n) "
+  },
+  {
+    "word": "礼状",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113644",
+    "ja": "れいじょう",
+    "en": "acknowledgment, acknowledgement, letter of thanks (P)   (n) "
+  },
+  {
+    "word": "冷水",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113557",
+    "ja": "れいすい",
+    "en": "cold water (P)   (n) "
+  },
+  {
+    "word": "冷静",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5839.mp3",
+    "ja": "れいせい",
+    "en": "calm, composure, coolness, serenity (P)   (adj-na,n) "
+  },
+  {
+    "word": "冷戦",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113563",
+    "ja": "れいせん",
+    "en": "cold war (P)   (n) "
+  },
+  {
+    "word": "冷蔵",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113567",
+    "ja": "れいぞう",
+    "en": "cold storage, refrigeration (P)   (n,vs) "
+  },
+  {
+    "word": "冷蔵庫",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/8478.mp3",
+    "ja": "れいぞうこ",
+    "en": "refrigerator (P)   (n) "
+  },
+  {
+    "word": "冷淡",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113573",
+    "ja": "れいたん",
+    "en": "coolness, indifference (P)   (adj-na,n) "
+  },
+  {
+    "word": "例題",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113477",
+    "ja": "れいだい",
+    "en": "example, exercise (for the reader)  (P)   (n) "
+  },
+  {
+    "word": "冷暖房",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113575",
+    "ja": "れいだんぼう",
+    "en": "air-conditioning (P)   (n) "
+  },
+  {
+    "word": "冷徹",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113576",
+    "ja": "れいてつ",
+    "en": "cool-headedness (P)   (adj-na,n) "
+  },
+  {
+    "word": "零点",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113684",
+    "ja": "れいてん",
+    "en": "zero, no marks (P)   (n) "
+  },
+  {
+    "word": "冷凍",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113578",
+    "ja": "れいとう",
+    "en": "freezing, cold storage, refrigeration (P)   (n,vs) "
+  },
+  {
+    "word": "例年",
+    "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1608628.mp3",
+    "ja": "れいねん",
+    "en": "average (normal, ordinary) year, every year, annually (P)   (n-adv,n-t) "
+  },
+  {
+    "word": "礼拝",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113649",
+    "ja": "れいはい",
+    "en": "1. worship (esp. Christian) adoration, divine service (P)   (n,vs) "
+  },
+  {
+    "word": "礼服",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/17196.mp3",
+    "ja": "れいふく",
+    "en": "ceremonial dress (P)   (n) "
+  },
+  {
+    "word": "例文",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113481",
+    "ja": "れいぶん",
+    "en": "model sentence (P)   (n) "
+  },
+  {
+    "word": "冷房",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113594",
+    "ja": "れいぼう",
+    "en": "cooling, air-conditioning (P)   (n,vs) "
+  },
+  {
+    "word": "歴史",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/3236.mp3",
+    "ja": "れきし",
+    "en": "history (P)   (n) "
+  },
+  {
+    "word": "歴史的",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/8449.mp3",
+    "ja": "れきしてき",
+    "en": "historic, historical, traditional (P)   (adj-na) "
+  },
+  {
+    "word": "歴然",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113790",
+    "ja": "れきぜん",
+    "en": "evident, plain, distinct, clear (P)   (adj-t,adv-to) "
+  },
+  {
+    "word": "歴代",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/17461.mp3",
+    "ja": "れきだい",
+    "en": "successive generations, successive emperors (P)   (n) "
+  },
+  {
+    "word": "歴任",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113797",
+    "ja": "れきにん",
+    "en": "successive jobs, consecutive jobs (P)   (n,vs) "
+  },
+  {
+    "word": "歴訪",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113801",
+    "ja": "れきほう",
+    "en": "round of calls, tour of visitation (P)   (n,vs) "
+  },
+  {
+    "word": "劣化",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113826",
+    "ja": "れっか",
+    "en": "deterioration, degradation (P)   (n,vs) "
+  },
+  {
+    "word": "列挙",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113809",
+    "ja": "れっきょ",
+    "en": "enumeration, list (P)   (n,vs) "
+  },
+  {
+    "word": "列国",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113813",
+    "ja": "れっこく",
+    "en": "nations, states (P)   (n) "
+  },
+  {
+    "word": "列車",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/19692.mp3",
+    "ja": "れっしゃ",
+    "en": "train (ordinary)  (P)   (n) "
+  },
+  {
+    "word": "彼方",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/411.mp3",
+    "ja": "あちら",
+    "en": "1. there, yonder, that (P)   (n) "
+  },
+  {
+    "word": "彼方此方",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=97061",
+    "ja": "あちらこちら",
+    "en": "here and there (P)   (adv,n)  (uk) "
+  },
+  {
+    "word": "悪化",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/7492.mp3",
+    "ja": "あっか",
+    "en": "deterioration, growing worse, aggravation, degeneration, corruption (P)   (n,vs)  (suffer) "
+  },
+  {
+    "word": "圧巻",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22615",
+    "ja": "あっかん",
+    "en": "highlight, best part, masterpiece (P)   (n) "
+  },
+  {
+    "word": "呆気",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=103649",
+    "ja": "あっけ",
+    "en": "taken aback, dumbfounded (P)   (n) "
+  },
+  {
+    "word": "悪口",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22412",
+    "ja": "あっこう",
+    "en": "abuse, insult, slander, evil speaking (P)   (n,vs) "
+  },
+  {
+    "word": "圧縮",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22626",
+    "ja": "あっしゅく",
+    "en": "compression, condensation, constriction, compaction (P)   (n,vs) "
+  },
+  {
+    "word": "圧勝",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22638",
+    "ja": "あっしょう",
+    "en": "complete victory (P)   (n,vs) "
+  },
+  {
+    "word": "斡旋",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22681",
+    "ja": "あっせん",
+    "en": "kind offices, mediation (P)   (n,vs) "
+  },
+  {
+    "word": "圧倒",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22655",
+    "ja": "あっとう",
+    "en": "overwhelm, overpower, overwhelming (P)   (n,vs) "
+  },
+  {
+    "word": "圧倒的",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/13057.mp3",
+    "ja": "あっとうてき",
+    "en": "overwhelming (P)   (adj-na,n) "
+  },
+  {
+    "word": "圧迫",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/20297.mp3",
+    "ja": "あっぱく",
+    "en": "pressure, coercion, oppression (P)   (n,vs) "
+  },
+  {
+    "word": "厚い",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/1495.mp3",
+    "ja": "あつい",
+    "en": "cordial, kind, warm (hearted) thick, deep (P)   (adj) "
+  },
+  {
+    "word": "暑い",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/1495.mp3",
+    "ja": "あつい",
+    "en": "hot, warm (P)   (adj) "
+  },
+  {
+    "word": "熱い",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/1495.mp3",
+    "ja": "あつい",
+    "en": "hot (thing)  (P)   (adj) "
+  },
+  {
+    "word": "扱い",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22688",
+    "ja": "あつかい",
+    "en": "treatment, service (P)   (n,n-suf,vs) "
+  },
+  {
+    "word": "扱う",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22691",
+    "ja": "あつかう",
+    "en": "to handle, to deal with, to treat (P)   (v5u) "
+  },
+  {
+    "word": "厚かましい",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49266",
+    "ja": "あつかましい",
+    "en": "impudent, shameless, brazen (P)   (adj) "
+  },
+  {
+    "word": "厚紙",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49280",
+    "ja": "あつがみ",
+    "en": "cardboard, thick paper (P)   (n) "
+  },
+  {
+    "word": "厚着",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49294",
+    "ja": "あつぎ",
+    "en": "wearing thick clothes (P)   (n,vs) "
+  },
+  {
+    "word": "厚さ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49268",
+    "ja": "あつさ",
+    "en": "thickness (P)   (n) "
+  },
+  {
+    "word": "暑さ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=64565",
+    "ja": "あつさ",
+    "en": "heat, hotness (P)   (n) "
+  },
+  {
+    "word": "集まり",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/19232.mp3",
+    "ja": "あつまり",
+    "en": "gathering, meeting, assembly, collection (P)   (n) "
+  },
+  {
+    "word": "集まる",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/4405.mp3",
+    "ja": "あつまる",
+    "en": "to gather, to collect, to assemble (P)   (v5r,vi) "
+  },
+  {
+    "word": "厚み",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49270",
+    "ja": "あつみ",
+    "en": "thickness, profound (P)   (n) "
+  },
+  {
+    "word": "集める",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/4404.mp3",
+    "ja": "あつめる",
+    "en": "to collect, to assemble (P)   (v1,vt) "
+  },
+  {
+    "word": "圧力",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22670",
+    "ja": "あつりょく",
+    "en": "stress, pressure (P)   (n,vs) "
+  },
+  {
+    "word": "宛",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/2942.mp3",
+    "ja": "あて",
+    "en": "addressed to (P)   (n,n-suf) "
+  },
+  {
+    "word": "当て",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/2942.mp3",
+    "ja": "あて",
+    "en": "object, aim, end, hopes, expectations (P)   (n) "
+  },
+  {
+    "word": "宛先",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5762.mp3",
+    "ja": "あてさき",
+    "en": "address, destination (P)   (n)  (gen)  (comp) "
+  },
+  {
+    "word": "宛名",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22716",
+    "ja": "あてな",
+    "en": "address, direction (P)   (n) "
+  },
+  {
+    "word": "当てはまる",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=89573",
+    "ja": "あてはまる",
+    "en": "to apply (a rule) to be applicable, to come under (a category) to fulfill (P)   (v5r) "
+  },
+  {
+    "word": "当てはめる",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=89574",
+    "ja": "あてはめる",
+    "en": "to apply, to adapt (P)   (v1,vt) "
+  },
+  {
+    "word": "充てる",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/8671.mp3",
+    "ja": "あてる",
+    "en": "to assign, to set aside (P)   (v1) "
+  },
+  {
+    "word": "当てる",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/8671.mp3",
+    "ja": "あてる",
+    "en": "1. to hit  (v1) 2. to expose  (v1) 3. to apply (e.g., patch)   (v1) 4. to allot, to call on someone (e.g., in class)   (v1) 5. to guess (an answer)   (v1) 6. to make a hit (e.g., in a lottery)  (P)   (v1) "
+  },
+  {
+    "word": "後",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5951.mp3",
+    "ja": "あと",
+    "en": "after, behind, later, rear, remainder, successor (P)   (adj-no,n-adv,n) "
+  },
+  {
+    "word": "跡",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5951.mp3",
+    "ja": "あと",
+    "en": "1. trace, tracks, mark, sign  (n) 2. remains, ruins  (n) 3. scar (P)   (n) "
+  },
+  {
+    "word": "後押し",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=47951",
+    "ja": "あとおし",
+    "en": "pushing, backing, boosting (P)   (n,vs) "
+  },
+  {
+    "word": "後片付け",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/9068.mp3",
+    "ja": "あとかたづけ",
+    "en": "tidying up, cleaning, clearing away, putting in order (P)   (n,vs) "
+  },
+  {
+    "word": "後書",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48014",
+    "ja": "あとがき",
+    "en": "afterword, postscript (P)   (n) "
+  },
+  {
+    "word": "後書き",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48015",
+    "ja": "あとがき",
+    "en": "afterword, postscript (P)   (n) "
+  },
+  {
+    "word": "後始末",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48000",
+    "ja": "あとしまつ",
+    "en": "settlement (of affairs) remedial measures (P)   (n,vs) "
+  },
+  {
+    "word": "跡継ぎ",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16466.mp3",
+    "ja": "あとつぎ",
+    "en": "heir, successor (P)   (n) "
+  },
+  {
+    "word": "後の祭り",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=47906",
+    "ja": "あとのまつり",
+    "en": "Too late! (P)   (n) "
+  },
+  {
+    "word": "後回し",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=47954",
+    "ja": "あとまわし",
+    "en": "putting off, postponing (P)   (n) "
+  },
+  {
+    "word": "後戻り",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48092",
+    "ja": "あともどり",
+    "en": "backtrack (P)   (n,vs) "
+  },
+  {
+    "word": "穴",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/9571.mp3",
+    "ja": "あな",
+    "en": "hole (P)   (n,n-suf) "
+  },
+  {
+    "word": "穴埋め",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=44646",
+    "ja": "あなうめ",
+    "en": "filling in gaps, filling in blanks (in a form, etc)  (P)   (n,vs) "
+  },
+  {
+    "word": "強ち",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=40409",
+    "ja": "あながち",
+    "en": "not necessarily (P)   (adv)  (arch) "
+  },
+  {
+    "word": "貴方",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/304.mp3",
+    "ja": "あなた",
+    "en": "you, dear (what a wife calls a husband)  (P)   (n)  (hum)  (uk) "
+  }
+]

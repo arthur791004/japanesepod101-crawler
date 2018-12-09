@@ -1,0 +1,602 @@
+[
+  {
+    "word": "モアレ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=19982",
+    "ja": "モアレ",
+    "en": "Moire (P)   (n) "
+  },
+  {
+    "word": "モサド",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=19990",
+    "ja": "モサド",
+    "en": "Mossad (Israeli secret service)  (P)   (n) "
+  },
+  {
+    "word": "モザイク",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=19991",
+    "ja": "モザイク",
+    "en": "mosaic (P)   (n) "
+  },
+  {
+    "word": "モザンビーク",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=19995",
+    "ja": "モザンビーク",
+    "en": "Mozambique (P)   (n) "
+  },
+  {
+    "word": "モスキートウェート",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20003",
+    "ja": "モスキートウェート",
+    "en": "mosquito-weight (P)   (n) "
+  },
+  {
+    "word": "モスク",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/19464.mp3",
+    "ja": "モスク",
+    "en": "mosque (P)   (n) "
+  },
+  {
+    "word": "モスクワ",
+    "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226179.mp3",
+    "ja": "モスクワ",
+    "en": "Moscow (P)   (n) "
+  },
+  {
+    "word": "モスグリーン",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20006",
+    "ja": "モスグリーン",
+    "en": "moss green (P)   (n) "
+  },
+  {
+    "word": "モダニズム",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20011",
+    "ja": "モダニズム",
+    "en": "modernism (P)   (n) "
+  },
+  {
+    "word": "モダン",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20014",
+    "ja": "モダン",
+    "en": "modern (P)   (adj-na,n) "
+  },
+  {
+    "word": "モダンダンス",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20017",
+    "ja": "モダンダンス",
+    "en": "modern dance (P)   (n) "
+  },
+  {
+    "word": "モチーフ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20022",
+    "ja": "モチーフ",
+    "en": "motif (P)   (n) "
+  },
+  {
+    "word": "モックアップ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20027",
+    "ja": "モックアップ",
+    "en": "mock-up (P)   (n) "
+  },
+  {
+    "word": "モットー",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/12201.mp3",
+    "ja": "モットー",
+    "en": "motto (P)   (n) "
+  },
+  {
+    "word": "モティーフ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20031",
+    "ja": "モティーフ",
+    "en": "motif (P)   (n) "
+  },
+  {
+    "word": "モテル",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/12630.mp3",
+    "ja": "モテル",
+    "en": "motel (P)   (n) "
+  },
+  {
+    "word": "モディスト",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20034",
+    "ja": "モディスト",
+    "en": "modiste (P)   (n) "
+  },
+  {
+    "word": "モデム",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20038",
+    "ja": "モデム",
+    "en": "modem (P)   (n) "
+  },
+  {
+    "word": "モデル",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/12630.mp3",
+    "ja": "モデル",
+    "en": "model (P)   (n) "
+  },
+  {
+    "word": "モデルガン",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20047",
+    "ja": "モデルガン",
+    "en": "model gun (P)   (n) "
+  },
+  {
+    "word": "モデルケース",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20049",
+    "ja": "モデルケース",
+    "en": "model case (P)   (n) "
+  },
+  {
+    "word": "モトクロス",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20057",
+    "ja": "モトクロス",
+    "en": "motocross (P)   (n) "
+  },
+  {
+    "word": "モトローラ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20058",
+    "ja": "モトローラ",
+    "en": "Motorola (P)   (n) "
+  },
+  {
+    "word": "モニタリング",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20068",
+    "ja": "モニタリング",
+    "en": "monitoring (P)   (n) "
+  },
+  {
+    "word": "モニター",
+    "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7033.mp3",
+    "ja": "モニター",
+    "en": "1.  (comp)  (computer) monitor  (n) 2. consumer who comments on products, television programs, etc. (programmes)  (P)   (n) "
+  },
+  {
+    "word": "モニュメント",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20070",
+    "ja": "モニュメント",
+    "en": "monument (P)   (n) "
+  },
+  {
+    "word": "モノ",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/2836.mp3",
+    "ja": "モノ",
+    "en": "mono (P)   (n) "
+  },
+  {
+    "word": "モノクロ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20074",
+    "ja": "モノクロ",
+    "en": "monochrome (P)   (n,adj-no) "
+  },
+  {
+    "word": "モノトーン",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20082",
+    "ja": "モノトーン",
+    "en": "monotone (P)   (n) "
+  },
+  {
+    "word": "モノラル",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20090",
+    "ja": "モノラル",
+    "en": "monaural (P)   (n) "
+  },
+  {
+    "word": "モノレール",
+    "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227859.mp3",
+    "ja": "モノレール",
+    "en": "monorail (P)   (n) "
+  },
+  {
+    "word": "モノローグ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20093",
+    "ja": "モノローグ",
+    "en": "monologue (P)   (n) "
+  },
+  {
+    "word": "モミズム",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20109",
+    "ja": "モミズム",
+    "en": "momism (P)   (n) "
+  },
+  {
+    "word": "モラトリアム",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20114",
+    "ja": "モラトリアム",
+    "en": "moratorium (P)   (n) "
+  },
+  {
+    "word": "モラル",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20117",
+    "ja": "モラル",
+    "en": "morals, morality, ethics (P)   (n) "
+  },
+  {
+    "word": "モリスダンス",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20124",
+    "ja": "モリスダンス",
+    "en": "Morris dance (P)   (n) "
+  },
+  {
+    "word": "モルグ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20130",
+    "ja": "モルグ",
+    "en": "morgue (P)   (n) "
+  },
+  {
+    "word": "モルタル",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20132",
+    "ja": "モルタル",
+    "en": "mortar (P)   (n) "
+  },
+  {
+    "word": "モルドバ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20137",
+    "ja": "モルドバ",
+    "en": "Moldavia (p) Moldova (P)   (n) "
+  },
+  {
+    "word": "モルヒネ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20138",
+    "ja": "モルヒネ",
+    "en": "morphine (P)   (n) "
+  },
+  {
+    "word": "モルモット",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20141",
+    "ja": "モルモット",
+    "en": "marmotte, guinea pig (P)   (n) "
+  },
+  {
+    "word": "モロッコ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20148",
+    "ja": "モロッコ",
+    "en": "Morocco (P)   (n) "
+  },
+  {
+    "word": "モンキー",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20150",
+    "ja": "モンキー",
+    "en": "monkey (P)   (n) "
+  },
+  {
+    "word": "モンゴリズム",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20157",
+    "ja": "モンゴリズム",
+    "en": "mongolism (P)   (n) "
+  },
+  {
+    "word": "モンゴル",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20158",
+    "ja": "モンゴル",
+    "en": "Mongol (P)   (n) "
+  },
+  {
+    "word": "モンスター",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20162",
+    "ja": "モンスター",
+    "en": "monster (P)   (n) "
+  },
+  {
+    "word": "モンスーン",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20160",
+    "ja": "モンスーン",
+    "en": "monsoon (P)   (n) "
+  },
+  {
+    "word": "モンタナ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20166",
+    "ja": "モンタナ",
+    "en": "Montana (P)   (n) "
+  },
+  {
+    "word": "モンタージュ",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/3590.mp3",
+    "ja": "モンタージュ",
+    "en": "montage (P)   (n) "
+  },
+  {
+    "word": "モンテカルロ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=20168",
+    "ja": "モンテカルロ",
+    "en": "Monte Carlo (P)   (n) "
+  },
+  {
+    "word": "彼方",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/411.mp3",
+    "ja": "あちら",
+    "en": "1. there, yonder, that (P)   (n) "
+  },
+  {
+    "word": "彼方此方",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=97061",
+    "ja": "あちらこちら",
+    "en": "here and there (P)   (adv,n)  (uk) "
+  },
+  {
+    "word": "悪化",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/7492.mp3",
+    "ja": "あっか",
+    "en": "deterioration, growing worse, aggravation, degeneration, corruption (P)   (n,vs)  (suffer) "
+  },
+  {
+    "word": "圧巻",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22615",
+    "ja": "あっかん",
+    "en": "highlight, best part, masterpiece (P)   (n) "
+  },
+  {
+    "word": "呆気",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=103649",
+    "ja": "あっけ",
+    "en": "taken aback, dumbfounded (P)   (n) "
+  },
+  {
+    "word": "悪口",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22412",
+    "ja": "あっこう",
+    "en": "abuse, insult, slander, evil speaking (P)   (n,vs) "
+  },
+  {
+    "word": "圧縮",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22626",
+    "ja": "あっしゅく",
+    "en": "compression, condensation, constriction, compaction (P)   (n,vs) "
+  },
+  {
+    "word": "圧勝",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22638",
+    "ja": "あっしょう",
+    "en": "complete victory (P)   (n,vs) "
+  },
+  {
+    "word": "斡旋",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22681",
+    "ja": "あっせん",
+    "en": "kind offices, mediation (P)   (n,vs) "
+  },
+  {
+    "word": "圧倒",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22655",
+    "ja": "あっとう",
+    "en": "overwhelm, overpower, overwhelming (P)   (n,vs) "
+  },
+  {
+    "word": "圧倒的",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/13057.mp3",
+    "ja": "あっとうてき",
+    "en": "overwhelming (P)   (adj-na,n) "
+  },
+  {
+    "word": "圧迫",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/20297.mp3",
+    "ja": "あっぱく",
+    "en": "pressure, coercion, oppression (P)   (n,vs) "
+  },
+  {
+    "word": "厚い",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/1495.mp3",
+    "ja": "あつい",
+    "en": "cordial, kind, warm (hearted) thick, deep (P)   (adj) "
+  },
+  {
+    "word": "暑い",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/1495.mp3",
+    "ja": "あつい",
+    "en": "hot, warm (P)   (adj) "
+  },
+  {
+    "word": "熱い",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/1495.mp3",
+    "ja": "あつい",
+    "en": "hot (thing)  (P)   (adj) "
+  },
+  {
+    "word": "扱い",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22688",
+    "ja": "あつかい",
+    "en": "treatment, service (P)   (n,n-suf,vs) "
+  },
+  {
+    "word": "扱う",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22691",
+    "ja": "あつかう",
+    "en": "to handle, to deal with, to treat (P)   (v5u) "
+  },
+  {
+    "word": "厚かましい",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49266",
+    "ja": "あつかましい",
+    "en": "impudent, shameless, brazen (P)   (adj) "
+  },
+  {
+    "word": "厚紙",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49280",
+    "ja": "あつがみ",
+    "en": "cardboard, thick paper (P)   (n) "
+  },
+  {
+    "word": "厚着",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49294",
+    "ja": "あつぎ",
+    "en": "wearing thick clothes (P)   (n,vs) "
+  },
+  {
+    "word": "厚さ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49268",
+    "ja": "あつさ",
+    "en": "thickness (P)   (n) "
+  },
+  {
+    "word": "暑さ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=64565",
+    "ja": "あつさ",
+    "en": "heat, hotness (P)   (n) "
+  },
+  {
+    "word": "集まり",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/19232.mp3",
+    "ja": "あつまり",
+    "en": "gathering, meeting, assembly, collection (P)   (n) "
+  },
+  {
+    "word": "集まる",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/4405.mp3",
+    "ja": "あつまる",
+    "en": "to gather, to collect, to assemble (P)   (v5r,vi) "
+  },
+  {
+    "word": "厚み",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49270",
+    "ja": "あつみ",
+    "en": "thickness, profound (P)   (n) "
+  },
+  {
+    "word": "集める",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/4404.mp3",
+    "ja": "あつめる",
+    "en": "to collect, to assemble (P)   (v1,vt) "
+  },
+  {
+    "word": "圧力",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22670",
+    "ja": "あつりょく",
+    "en": "stress, pressure (P)   (n,vs) "
+  },
+  {
+    "word": "宛",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/2942.mp3",
+    "ja": "あて",
+    "en": "addressed to (P)   (n,n-suf) "
+  },
+  {
+    "word": "当て",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/2942.mp3",
+    "ja": "あて",
+    "en": "object, aim, end, hopes, expectations (P)   (n) "
+  },
+  {
+    "word": "宛先",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5762.mp3",
+    "ja": "あてさき",
+    "en": "address, destination (P)   (n)  (gen)  (comp) "
+  },
+  {
+    "word": "宛名",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22716",
+    "ja": "あてな",
+    "en": "address, direction (P)   (n) "
+  },
+  {
+    "word": "当てはまる",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=89573",
+    "ja": "あてはまる",
+    "en": "to apply (a rule) to be applicable, to come under (a category) to fulfill (P)   (v5r) "
+  },
+  {
+    "word": "当てはめる",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=89574",
+    "ja": "あてはめる",
+    "en": "to apply, to adapt (P)   (v1,vt) "
+  },
+  {
+    "word": "充てる",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/8671.mp3",
+    "ja": "あてる",
+    "en": "to assign, to set aside (P)   (v1) "
+  },
+  {
+    "word": "当てる",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/8671.mp3",
+    "ja": "あてる",
+    "en": "1. to hit  (v1) 2. to expose  (v1) 3. to apply (e.g., patch)   (v1) 4. to allot, to call on someone (e.g., in class)   (v1) 5. to guess (an answer)   (v1) 6. to make a hit (e.g., in a lottery)  (P)   (v1) "
+  },
+  {
+    "word": "後",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5951.mp3",
+    "ja": "あと",
+    "en": "after, behind, later, rear, remainder, successor (P)   (adj-no,n-adv,n) "
+  },
+  {
+    "word": "跡",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5951.mp3",
+    "ja": "あと",
+    "en": "1. trace, tracks, mark, sign  (n) 2. remains, ruins  (n) 3. scar (P)   (n) "
+  },
+  {
+    "word": "後押し",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=47951",
+    "ja": "あとおし",
+    "en": "pushing, backing, boosting (P)   (n,vs) "
+  },
+  {
+    "word": "後片付け",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/9068.mp3",
+    "ja": "あとかたづけ",
+    "en": "tidying up, cleaning, clearing away, putting in order (P)   (n,vs) "
+  },
+  {
+    "word": "後書",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48014",
+    "ja": "あとがき",
+    "en": "afterword, postscript (P)   (n) "
+  },
+  {
+    "word": "後書き",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48015",
+    "ja": "あとがき",
+    "en": "afterword, postscript (P)   (n) "
+  },
+  {
+    "word": "後始末",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48000",
+    "ja": "あとしまつ",
+    "en": "settlement (of affairs) remedial measures (P)   (n,vs) "
+  },
+  {
+    "word": "跡継ぎ",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16466.mp3",
+    "ja": "あとつぎ",
+    "en": "heir, successor (P)   (n) "
+  },
+  {
+    "word": "後の祭り",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=47906",
+    "ja": "あとのまつり",
+    "en": "Too late! (P)   (n) "
+  },
+  {
+    "word": "後回し",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=47954",
+    "ja": "あとまわし",
+    "en": "putting off, postponing (P)   (n) "
+  },
+  {
+    "word": "後戻り",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48092",
+    "ja": "あともどり",
+    "en": "backtrack (P)   (n,vs) "
+  },
+  {
+    "word": "穴",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/9571.mp3",
+    "ja": "あな",
+    "en": "hole (P)   (n,n-suf) "
+  },
+  {
+    "word": "穴埋め",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=44646",
+    "ja": "あなうめ",
+    "en": "filling in gaps, filling in blanks (in a form, etc)  (P)   (n,vs) "
+  },
+  {
+    "word": "強ち",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=40409",
+    "ja": "あながち",
+    "en": "not necessarily (P)   (adv)  (arch) "
+  },
+  {
+    "word": "貴方",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/304.mp3",
+    "ja": "あなた",
+    "en": "you, dear (what a wife calls a husband)  (P)   (n)  (hum)  (uk) "
+  }
+]

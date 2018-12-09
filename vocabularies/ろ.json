@@ -1,0 +1,602 @@
+[
+  {
+    "word": "労",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114273",
+    "ja": "ろう",
+    "en": "labor, labour, toil, trouble, striving, putting (someone) to work, thanking (someone for their efforts) comforting (P)   (n,vs) "
+  },
+  {
+    "word": "老",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114433",
+    "ja": "ろう",
+    "en": "old age, age, old people, the old, the aged (P)   (n) "
+  },
+  {
+    "word": "朗詠",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114364",
+    "ja": "ろうえい",
+    "en": "recitation (of Japanese or Chinese poem)  (P)   (n,vs) "
+  },
+  {
+    "word": "廊下",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5606.mp3",
+    "ja": "ろうか",
+    "en": "corridor (P)   (n) "
+  },
+  {
+    "word": "老化",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5606.mp3",
+    "ja": "ろうか",
+    "en": "ageing, aging, senile deterioration (P)   (n,vs) "
+  },
+  {
+    "word": "楼閣",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114373",
+    "ja": "ろうかく",
+    "en": "multistoried building (P)   (n) "
+  },
+  {
+    "word": "老眼",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114458",
+    "ja": "ろうがん",
+    "en": "presbyopia, long-sighted (P)   (n) "
+  },
+  {
+    "word": "老朽",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114461",
+    "ja": "ろうきゅう",
+    "en": "superannuated, decrepitude (P)   (n,vs) "
+  },
+  {
+    "word": "労組",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114294",
+    "ja": "ろうくみ",
+    "en": "labor union, labour union (P)   (n)  (abbr) "
+  },
+  {
+    "word": "老後",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114466",
+    "ja": "ろうご",
+    "en": "old age (P)   (n) "
+  },
+  {
+    "word": "労災",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114283",
+    "ja": "ろうさい",
+    "en": "workers' compensation insurance (P)   (n) "
+  },
+  {
+    "word": "労作",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114285",
+    "ja": "ろうさく",
+    "en": "toil, labor, labour, laborious task (P)   (n,vs) "
+  },
+  {
+    "word": "労使",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114287",
+    "ja": "ろうし",
+    "en": "labour and management, labor and management (P)   (n) "
+  },
+  {
+    "word": "老子",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114472",
+    "ja": "ろうし",
+    "en": "Lao-tse, Lao-tzu (P)   (n) "
+  },
+  {
+    "word": "労相",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114296",
+    "ja": "ろうしょう",
+    "en": "Labor Minister (P)   (n) "
+  },
+  {
+    "word": "老女",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114487",
+    "ja": "ろうじょ",
+    "en": "elderly woman, senior lady-in-waiting (P)   (n) "
+  },
+  {
+    "word": "老人",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/2727.mp3",
+    "ja": "ろうじん",
+    "en": "the aged, old person (P)   (n) "
+  },
+  {
+    "word": "老人性",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114497",
+    "ja": "ろうじんせい",
+    "en": "senile (P)   (adj-na) "
+  },
+  {
+    "word": "老人ホーム",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114496",
+    "ja": "ろうじんホーム",
+    "en": "senior citizens' home (P)   (n) "
+  },
+  {
+    "word": "老衰",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114502",
+    "ja": "ろうすい",
+    "en": "senility, senile decay (P)   (n,vs) "
+  },
+  {
+    "word": "蝋燭",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/15499.mp3",
+    "ja": "ろうそく",
+    "en": "candle (P)   (n)  (uk) "
+  },
+  {
+    "word": "労働",
+    "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/583636.mp3",
+    "ja": "ろうどう",
+    "en": "manual labor, manual labour, toil, work (P)   (n,vs) "
+  },
+  {
+    "word": "労働運動",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114302",
+    "ja": "ろうどううんどう",
+    "en": "labour movement, labor movement (P)   (n) "
+  },
+  {
+    "word": "労働基準法",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114307",
+    "ja": "ろうどうきじゅんほう",
+    "en": "Labor Standards Act (P)   (n) "
+  },
+  {
+    "word": "労働組合",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114327",
+    "ja": "ろうどうくみあい",
+    "en": "labor union, labour union (P)   (n) "
+  },
+  {
+    "word": "労働者",
+    "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549208.mp3",
+    "ja": "ろうどうしゃ",
+    "en": "labourer, laborer, worker, workman (P)   (n) "
+  },
+  {
+    "word": "労働省",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114323",
+    "ja": "ろうどうしょう",
+    "en": "Ministry of Labor (P)   (n) "
+  },
+  {
+    "word": "労働条件",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114324",
+    "ja": "ろうどうじょうけん",
+    "en": "working conditions (P)   (n) "
+  },
+  {
+    "word": "労働党",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114332",
+    "ja": "ろうどうとう",
+    "en": "Labour Party (P)   (n) "
+  },
+  {
+    "word": "朗読",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114367",
+    "ja": "ろうどく",
+    "en": "reading aloud, recitation (P)   (n,vs) "
+  },
+  {
+    "word": "老若",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114477",
+    "ja": "ろうにゃく",
+    "en": "1. young and old, all ages (P)   (n,adj-na) "
+  },
+  {
+    "word": "浪人",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16226.mp3",
+    "ja": "ろうにん",
+    "en": "1. ronin, lordless samurai  (n,vs) 2. out of work  (n,vs) 3. waiting for another chance to enter a university (P)   (n,vs) "
+  },
+  {
+    "word": "老年",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114514",
+    "ja": "ろうねん",
+    "en": "old age (P)   (n) "
+  },
+  {
+    "word": "老婆",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114516",
+    "ja": "ろうば",
+    "en": "old woman (P)   (n) "
+  },
+  {
+    "word": "浪費",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114385",
+    "ja": "ろうひ",
+    "en": "waste, extravagance (P)   (n,vs) "
+  },
+  {
+    "word": "老婦",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114526",
+    "ja": "ろうふ",
+    "en": "old woman (P)   (n) "
+  },
+  {
+    "word": "老夫婦",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114525",
+    "ja": "ろうふうふ",
+    "en": "an old couple (P)   (n) "
+  },
+  {
+    "word": "老舗",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114530",
+    "ja": "ろうほ",
+    "en": "old shop, shop of long standing (P)   (n) "
+  },
+  {
+    "word": "朗報",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114368",
+    "ja": "ろうほう",
+    "en": "good news (P)   (n) "
+  },
+  {
+    "word": "労務",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114344",
+    "ja": "ろうむ",
+    "en": "labor, labour, work, service (P)   (n) "
+  },
+  {
+    "word": "労力",
+    "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/668897.mp3",
+    "ja": "ろうりょく",
+    "en": "labour, labor, effort, toil, trouble (P)   (n) "
+  },
+  {
+    "word": "老齢",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114543",
+    "ja": "ろうれい",
+    "en": "advanced age, senility (P)   (n) "
+  },
+  {
+    "word": "労連",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114352",
+    "ja": "ろうれん",
+    "en": "labour union, labor union (P)   (n) "
+  },
+  {
+    "word": "六",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/13243.mp3",
+    "ja": "ろく",
+    "en": "six (P)   (num) "
+  },
+  {
+    "word": "録音",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16515.mp3",
+    "ja": "ろくおん",
+    "en": "recording (P)   (n,vs)  (audio) "
+  },
+  {
+    "word": "録音テープ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114640",
+    "ja": "ろくおんテープ",
+    "en": "audio tape, magnetic tape (P)   (n) "
+  },
+  {
+    "word": "録画",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/4072.mp3",
+    "ja": "ろくが",
+    "en": "videotape (P)   (n,vs) "
+  },
+  {
+    "word": "六月",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/15593.mp3",
+    "ja": "ろくがつ",
+    "en": "June (P)   (n-adv) "
+  },
+  {
+    "word": "緑青",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=113129",
+    "ja": "ろくしょう",
+    "en": "verdigris, green rust, copper rust (P)   (n) "
+  },
+  {
+    "word": "六十",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=114593",
+    "ja": "ろくじゅう",
+    "en": "sixty (P)   (n) "
+  },
+  {
+    "word": "彼方",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/411.mp3",
+    "ja": "あちら",
+    "en": "1. there, yonder, that (P)   (n) "
+  },
+  {
+    "word": "彼方此方",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=97061",
+    "ja": "あちらこちら",
+    "en": "here and there (P)   (adv,n)  (uk) "
+  },
+  {
+    "word": "悪化",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/7492.mp3",
+    "ja": "あっか",
+    "en": "deterioration, growing worse, aggravation, degeneration, corruption (P)   (n,vs)  (suffer) "
+  },
+  {
+    "word": "圧巻",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22615",
+    "ja": "あっかん",
+    "en": "highlight, best part, masterpiece (P)   (n) "
+  },
+  {
+    "word": "呆気",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=103649",
+    "ja": "あっけ",
+    "en": "taken aback, dumbfounded (P)   (n) "
+  },
+  {
+    "word": "悪口",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22412",
+    "ja": "あっこう",
+    "en": "abuse, insult, slander, evil speaking (P)   (n,vs) "
+  },
+  {
+    "word": "圧縮",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22626",
+    "ja": "あっしゅく",
+    "en": "compression, condensation, constriction, compaction (P)   (n,vs) "
+  },
+  {
+    "word": "圧勝",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22638",
+    "ja": "あっしょう",
+    "en": "complete victory (P)   (n,vs) "
+  },
+  {
+    "word": "斡旋",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22681",
+    "ja": "あっせん",
+    "en": "kind offices, mediation (P)   (n,vs) "
+  },
+  {
+    "word": "圧倒",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22655",
+    "ja": "あっとう",
+    "en": "overwhelm, overpower, overwhelming (P)   (n,vs) "
+  },
+  {
+    "word": "圧倒的",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/13057.mp3",
+    "ja": "あっとうてき",
+    "en": "overwhelming (P)   (adj-na,n) "
+  },
+  {
+    "word": "圧迫",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/20297.mp3",
+    "ja": "あっぱく",
+    "en": "pressure, coercion, oppression (P)   (n,vs) "
+  },
+  {
+    "word": "厚い",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/1495.mp3",
+    "ja": "あつい",
+    "en": "cordial, kind, warm (hearted) thick, deep (P)   (adj) "
+  },
+  {
+    "word": "暑い",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/1495.mp3",
+    "ja": "あつい",
+    "en": "hot, warm (P)   (adj) "
+  },
+  {
+    "word": "熱い",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/1495.mp3",
+    "ja": "あつい",
+    "en": "hot (thing)  (P)   (adj) "
+  },
+  {
+    "word": "扱い",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22688",
+    "ja": "あつかい",
+    "en": "treatment, service (P)   (n,n-suf,vs) "
+  },
+  {
+    "word": "扱う",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22691",
+    "ja": "あつかう",
+    "en": "to handle, to deal with, to treat (P)   (v5u) "
+  },
+  {
+    "word": "厚かましい",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49266",
+    "ja": "あつかましい",
+    "en": "impudent, shameless, brazen (P)   (adj) "
+  },
+  {
+    "word": "厚紙",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49280",
+    "ja": "あつがみ",
+    "en": "cardboard, thick paper (P)   (n) "
+  },
+  {
+    "word": "厚着",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49294",
+    "ja": "あつぎ",
+    "en": "wearing thick clothes (P)   (n,vs) "
+  },
+  {
+    "word": "厚さ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49268",
+    "ja": "あつさ",
+    "en": "thickness (P)   (n) "
+  },
+  {
+    "word": "暑さ",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=64565",
+    "ja": "あつさ",
+    "en": "heat, hotness (P)   (n) "
+  },
+  {
+    "word": "集まり",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/19232.mp3",
+    "ja": "あつまり",
+    "en": "gathering, meeting, assembly, collection (P)   (n) "
+  },
+  {
+    "word": "集まる",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/4405.mp3",
+    "ja": "あつまる",
+    "en": "to gather, to collect, to assemble (P)   (v5r,vi) "
+  },
+  {
+    "word": "厚み",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=49270",
+    "ja": "あつみ",
+    "en": "thickness, profound (P)   (n) "
+  },
+  {
+    "word": "集める",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/4404.mp3",
+    "ja": "あつめる",
+    "en": "to collect, to assemble (P)   (v1,vt) "
+  },
+  {
+    "word": "圧力",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22670",
+    "ja": "あつりょく",
+    "en": "stress, pressure (P)   (n,vs) "
+  },
+  {
+    "word": "宛",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/2942.mp3",
+    "ja": "あて",
+    "en": "addressed to (P)   (n,n-suf) "
+  },
+  {
+    "word": "当て",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/2942.mp3",
+    "ja": "あて",
+    "en": "object, aim, end, hopes, expectations (P)   (n) "
+  },
+  {
+    "word": "宛先",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5762.mp3",
+    "ja": "あてさき",
+    "en": "address, destination (P)   (n)  (gen)  (comp) "
+  },
+  {
+    "word": "宛名",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=22716",
+    "ja": "あてな",
+    "en": "address, direction (P)   (n) "
+  },
+  {
+    "word": "当てはまる",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=89573",
+    "ja": "あてはまる",
+    "en": "to apply (a rule) to be applicable, to come under (a category) to fulfill (P)   (v5r) "
+  },
+  {
+    "word": "当てはめる",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=89574",
+    "ja": "あてはめる",
+    "en": "to apply, to adapt (P)   (v1,vt) "
+  },
+  {
+    "word": "充てる",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/8671.mp3",
+    "ja": "あてる",
+    "en": "to assign, to set aside (P)   (v1) "
+  },
+  {
+    "word": "当てる",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/8671.mp3",
+    "ja": "あてる",
+    "en": "1. to hit  (v1) 2. to expose  (v1) 3. to apply (e.g., patch)   (v1) 4. to allot, to call on someone (e.g., in class)   (v1) 5. to guess (an answer)   (v1) 6. to make a hit (e.g., in a lottery)  (P)   (v1) "
+  },
+  {
+    "word": "後",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5951.mp3",
+    "ja": "あと",
+    "en": "after, behind, later, rear, remainder, successor (P)   (adj-no,n-adv,n) "
+  },
+  {
+    "word": "跡",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/5951.mp3",
+    "ja": "あと",
+    "en": "1. trace, tracks, mark, sign  (n) 2. remains, ruins  (n) 3. scar (P)   (n) "
+  },
+  {
+    "word": "後押し",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=47951",
+    "ja": "あとおし",
+    "en": "pushing, backing, boosting (P)   (n,vs) "
+  },
+  {
+    "word": "後片付け",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/9068.mp3",
+    "ja": "あとかたづけ",
+    "en": "tidying up, cleaning, clearing away, putting in order (P)   (n,vs) "
+  },
+  {
+    "word": "後書",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48014",
+    "ja": "あとがき",
+    "en": "afterword, postscript (P)   (n) "
+  },
+  {
+    "word": "後書き",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48015",
+    "ja": "あとがき",
+    "en": "afterword, postscript (P)   (n) "
+  },
+  {
+    "word": "後始末",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48000",
+    "ja": "あとしまつ",
+    "en": "settlement (of affairs) remedial measures (P)   (n,vs) "
+  },
+  {
+    "word": "跡継ぎ",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/16466.mp3",
+    "ja": "あとつぎ",
+    "en": "heir, successor (P)   (n) "
+  },
+  {
+    "word": "後の祭り",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=47906",
+    "ja": "あとのまつり",
+    "en": "Too late! (P)   (n) "
+  },
+  {
+    "word": "後回し",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=47954",
+    "ja": "あとまわし",
+    "en": "putting off, postponing (P)   (n) "
+  },
+  {
+    "word": "後戻り",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=48092",
+    "ja": "あともどり",
+    "en": "backtrack (P)   (n,vs) "
+  },
+  {
+    "word": "穴",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/9571.mp3",
+    "ja": "あな",
+    "en": "hole (P)   (n,n-suf) "
+  },
+  {
+    "word": "穴埋め",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=44646",
+    "ja": "あなうめ",
+    "en": "filling in gaps, filling in blanks (in a form, etc)  (P)   (n,vs) "
+  },
+  {
+    "word": "強ち",
+    "audio": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?id=40409",
+    "ja": "あながち",
+    "en": "not necessarily (P)   (adv)  (arch) "
+  },
+  {
+    "word": "貴方",
+    "audio": "https://www.japanesepod101.com/learningcenter/audio/vocabulary/304.mp3",
+    "ja": "あなた",
+    "en": "you, dear (what a wife calls a husband)  (P)   (n)  (hum)  (uk) "
+  }
+]
