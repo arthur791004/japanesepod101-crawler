@@ -1,8 +1,8 @@
 const fs = require('fs');
 
-const { BASE_URL, PAGE_COUNT } = require('./constants');
+const { TOP_100_URL, PAGE_COUNT } = require('./constants');
 
-const getPage = (page) => `${BASE_URL}?page=${page}`;
+const getPage = (page) => `${TOP_100_URL}?page=${page}`;
 
 const getPages = () => Array.from({ length: PAGE_COUNT }, (v, index) => getPage(index + 1));
 

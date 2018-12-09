@@ -1,7 +1,7 @@
 const Crawler = require('crawler');
 
-const logger = require('./logger');
-const { parseData, saveData, getPages } = require('./utils');
+const logger = require('../logger');
+const { parseData, saveData, getPages } = require('../utils');
 
 let count = 0;
 let results = [];
